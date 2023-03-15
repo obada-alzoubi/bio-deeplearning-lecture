@@ -1,7 +1,7 @@
 - - - - 
 # Hands-on for Deep Learning for Life Sciences
 ## Setup 
-`
+```
 pip install tensorflow
 pip install mdtraj
 conda install -y -c conda-forge pdbfixer
@@ -15,4 +15,4 @@ pip install pymatgen
 pip install deepchem==2.4
 conda install -y -c rdkit rdkit
 pip install biopython
-`
+```
